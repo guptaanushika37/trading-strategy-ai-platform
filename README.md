@@ -1,3 +1,5 @@
+## thinking and ai notes : https://drive.google.com/drive/folders/1aouT0dazQoVxomcPQmJ1WBLRJDMswlgK?usp=sharing
+
 Absolutely. Since the problem is specifically about **turning an incomplete trading question into a systematic research process**, I’d rewrite the README around that rather than presenting it only as a generic backtesting platform.
 
  Here’s a submission-ready version:
